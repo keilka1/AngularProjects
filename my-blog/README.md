@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
-This project is an Angular application that functions as a personal blog. It also demonstrates the use of Jametstack characteristics useing the Scully site generator and Angular routing.
+This project is an Angular application that functions as a personal blog. It also demonstrates the use of Jamstack characteristics using the Scully site generator and Angular routing.
 
 ## Development server
 
