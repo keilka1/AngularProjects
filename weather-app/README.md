@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
+This project focuses on building an Angular Application that displays the weather for a user-specified city. It displays the use of the OpenWeather API, using Angular's Service Worker (for consistency across network types), and hosting with Firebase.
+
+The application can be found here: https://weather-app-a439c.web.app/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
