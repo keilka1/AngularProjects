@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
+This project focuses on building an Angular Application that acts as a portfolio application for my GitHub profile. It displays the use of the GitHub API, Angular Universal (to create an SSR application), and the preboot library.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
