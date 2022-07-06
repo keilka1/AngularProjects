@@ -10,6 +10,6 @@ These mini projects include:
 5. Building a WYSIWYG editor for the desktop using Electron ([my-editor](https://github.com/keilka1/AngularProjects/tree/main/my-editor))
 6. Building a mobile photo geotagging application using Capacitor and 3D maps ([phototag](https://github.com/keilka1/phototag/tree/master))
 7. Building an SSR application for a GitHub portfolio using Angular ([gh-portfolio](https://github.com/keilka1/AngularProjects/tree/main/gh-portfolio))
-8. Building a enterprise portal using Nx Monorepo tools and NgRX ()
+8. Building a enterprise portal using Nx Monorepo tools and NgRX ([angular-monorepo](https://github.com/keilka1/angular-monorepo/tree/main))
 9. Building a component UI library Angular CLI and Angular CDK ()
 10. Customizing Angular CLI commands using Schematics ()
