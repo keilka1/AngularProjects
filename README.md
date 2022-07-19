@@ -11,5 +11,5 @@ These mini projects include:
 6. Building a mobile photo geotagging application using Capacitor and 3D maps ([phototag](https://github.com/keilka1/phototag/tree/master))
 7. Building an SSR application for a GitHub portfolio using Angular ([gh-portfolio](https://github.com/keilka1/AngularProjects/tree/main/gh-portfolio))
 8. Building a enterprise portal using Nx Monorepo tools and NgRX ([angular-monorepo](https://github.com/keilka1/angular-monorepo/tree/main))
-9. Building a component UI library Angular CLI and Angular CDK ()
+9. Building a component UI library Angular CLI and Angular CDK ([angular-component-lib](https://github.com/keilka1/angular-component-lib/blob/main/README.md))
 10. Customizing Angular CLI commands using Schematics ()
